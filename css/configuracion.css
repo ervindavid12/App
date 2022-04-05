@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /* basic size */
+    font-size: 10px;
+
+    /* basic font */
+    font-family: 'Roboto', sans-serif;
+}
+
+:root{
+
+    /*Color palette*/
+    --colorTextClaro: rgba(60, 60, 67, 0.6);
+    --colorBlack:     #000000;
+    --colorBackground:#F2F2F7;
+    --colorBlue:      #007AFF;
+
+    /*Font size*/
+    --size17: 17px;
+    --size15: 15px;
+}
